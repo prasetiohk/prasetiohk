@@ -10,7 +10,7 @@
 ## Education:
 
 #### 1. [Universitas Jember](https://ilkom.unej.ac.id/)) | Bachelor of computer science faculty | Jember `2016-2021`
-   - Thesis [Pengaturan Cahaya Hidroponik dalam Ruang Berbasis Mikrokontroler Arduino terhadap Tanaman Selada](https://repository.unej.ac.id/handle/123456789/106185)
+   - Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
    - Organisational Experience Naturalist Student at the Computer Science Faculty - Organizational Advisory Board
 
 ## Work Experience:

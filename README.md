@@ -1,9 +1,9 @@
 # Hi there, I'm Tio - aka [prasetiohk](https://drive.google.com/file/d/16Xb-00hrzYuE9n6PlZf8zwTL1njLJpKi/view?usp=sharing) 👋
 ## About me:
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I am currently looking for a job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance
 - 👯 I’m looking to collaborate as Automation Software Quality Assurance (Tester)
-- 🤔 I’m looking for suggestions for Rust Project Ideas
+- 🤔 I’m looking for suggestions for Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: prasetiowicaksanacaesar@gmail.com / [telegram](https://t.me/prstio)
 

@@ -20,7 +20,7 @@ Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUI
 
 ## Work Experience:
 #### 1. [https://vifx.co.id/] | Management Trainee
-    "Extensive Training"
+    "Management Trainee"
 #### 2. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
     "Agricultural Area Data Collection"
 #### 3. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer   
@@ -47,7 +47,7 @@ Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUI
     "Digitalization of Agricultural Tools and Machinery"
 #### 4. [Survival Skill Indonesia](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2020
     "Basic Knowledge of Survival Skills"
-#### 5. }Survival Skill Indonesia](https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link)
+#### 5. [Survival Skill Indonesia](https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link) 2017
     "Gathering Survival Skills"  
     
 ---

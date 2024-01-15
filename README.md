@@ -8,7 +8,7 @@
 - 🔭 I'm a hybrid sport and triathlon enthusiast
 - 🌱 I'm a naturalist enthusiast
 - 💬 Ask me about anything
-- 📫 How to reach me: [enail](prasetiowicaksanacaesar@gmail.com) / [telegram](https://t.me/prstio)
+- 📫 How to reach me: [email](prasetiowicaksanacaesar@gmail.com) / [telegram](https://t.me/prstio)
 
 ---
 

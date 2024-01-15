@@ -13,13 +13,13 @@
 ---
 
 ## Education:
-#### 1. [Universitas Jember](https://ilkom.unej.ac.id/)) | Bachelor of Computer Science Faculty
+#### 1. [Universitas Jember](https://ilkom.unej.ac.id/) | Bachelor of Computer Science Faculty
 Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
 
 ---   
 
 ## Work Experience:
-#### 1. [https://vifx.co.id/] | Management Trainee
+#### 1. [Victory International Future](https://vifx.co.id/) | Management Trainee
     "Management Trainee"
 #### 2. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
     "Agricultural Area Data Collection"

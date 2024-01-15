@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate as Automation Software Quality Assurance (Tester)
 - 🤔 I’m looking for suggestions for Project Ideas
 - 👯 I'm currently learning Holistic Health Enthusiast
-- 🔭 I'm a hybrid sport and triathlon enthusiast
-- 🌱 I'm a naturalist enthusiast
+- 🔭 I'm a Hybrid Sport and Triathlon Enthusiast
+- 🌱 I'm a Naturalist Enthusiast
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](prasetiowicaksanacaesar@gmail.com) / [telegram](https://t.me/prstio)
 

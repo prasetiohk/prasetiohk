@@ -14,8 +14,7 @@
 
 ## Education:
 #### 1. [Universitas Jember](https://ilkom.unej.ac.id/)) | Bachelor of Computer Science Faculty
-    Thesis 
-   [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
+Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
 
 ---   
 
@@ -23,11 +22,11 @@
 #### 1. [https://vifx.co.id/] | Management Trainee
     "Extensive Training"
 #### 2. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
-    "Specialized in Agricultural Area Data Collection (ST2023)"
+    "Agricultural Area Data Collection"
 #### 3. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer   
-    "Preliminary Data Collection Specialist"
+    "Regional Economic Census"
 #### 4. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
-    "Statistical Specialist 2022"
+    "Statistical Work Area"
 #### 5. [PT Tumbuh Dimana Saja](https://www.instagram.com/akar.farm/) | IoT Engineer 
     "IoT Indoor Hydroponic Engineer"
 #### 6. [Samidjoyo Group] | Freelancer 
@@ -46,9 +45,9 @@
     "Digital Marketing Training"
 #### 3. [National Seminar and Agricultural Technical Guidance](https://drive.google.com/file/d/1PLbXKjaOO4JjBscUYuEZL0nFkZhuNUW_/view?usp=drive_link) 2024
     "Digitalization of Agricultural Tools and Machinery"
-#### 4. (Survival Skill Indonesia)[https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ] 2020
+#### 4. [Survival Skill Indonesia](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2020
     "Basic Knowledge of Survival Skills"
-#### 5. (Survival Skill Indonesia)[https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link]
+#### 5. }Survival Skill Indonesia](https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link)
     "Gathering Survival Skills"  
     
 ---

@@ -52,14 +52,6 @@ Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUI
     
 ---
 
-## Organizational Experience
-#### 1. Organisational Experience Naturalist Student at the Computer Science Faculty
-    "Organizational Advisory Board"
-#### 2. Extracurricular Swimming at Senior High School
-    "Chief"    
-    
----
-
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)]()

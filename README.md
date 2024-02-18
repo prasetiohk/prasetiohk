@@ -1,4 +1,4 @@
-# Hi there, I'm Tio - aka [Bakr](https://drive.google.com/file/d/1j8nW2zWHg2L4HD0gFvDsvN_KYElCQ5wg/view?usp=drivesdk)👋
+# Hi there, I'm Prasetio - aka [CV](https://drive.google.com/file/d/1j8nW2zWHg2L4HD0gFvDsvN_KYElCQ5wg/view?usp=drivesdk)👋
 ## About me:
 - 🔭 I'm currently looking for a job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance

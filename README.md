@@ -1,4 +1,4 @@
-# Hi there, I'm Prasetio - aka [CV](https://drive.google.com/file/d/1j8nW2zWHg2L4HD0gFvDsvN_KYElCQ5wg/view?usp=drivesdk)👋
+# Hi there, I'm Prasetio👋
 ## About me:
 - 🔭 I'm currently looking for a job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance
@@ -8,7 +8,7 @@
 - 🔭 I'm a Hybrid Sport and Triathlon Enthusiast
 - 🌱 I'm a Naturalist Enthusiast
 - 💬 Ask me about anything
-- 📫 How to reach me: [email](prasetiowicaksanacaesar@gmail.com) / [telegram](https://t.me/prstio)
+- 📫 How to reach me: [telegram](https://t.me/prstio)
 
 ---
 

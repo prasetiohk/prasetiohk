@@ -16,26 +16,6 @@
 #### 1. [Universitas Jember](https://ilkom.unej.ac.id/) | Bachelor of Computer Science Faculty
 Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
 
----   
-
-## Work Experience:
-#### 1. [Victory International Future](https://vifx.co.id/) | Management Trainee
-    "Management Trainee"
-#### 2. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
-    "Agricultural Area Data Collection"
-#### 3. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer   
-    "Regional Economic Census"
-#### 4. [Badan Pusat Statistik](https://jemberkab.bps.go.id/) | Freelancer 
-    "Statistical Work Area"
-#### 5. [PT Tumbuh Dimana Saja](https://www.instagram.com/akar.farm/) | IoT Engineer 
-    "IoT Indoor Hydroponic Engineer"
-#### 6. [Samidjoyo Group] | Freelancer 
-    "Food and Beverage Company"
-#### 7. [Hydroponic Farming] | Freelancer 
-    "Hydroponic Agriculture Company"
-#### 8. [Event Organizer] | Freelancer
-    "Event Organizer Company"
-
 ---
 
 ## Skills, Achievements & Other Experience

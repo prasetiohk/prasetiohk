@@ -20,7 +20,7 @@ Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUI
 
 ## Skills, Achievements & Other Experience
 #### 1. [Software Quality Assurance](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2024
-    "Training in Software Quality Assurance (QA)"
+    "Training in Software Quality Assurance (SQA)"
 #### 2. [Digital Marketing](https://drive.google.com/file/d/1qlXL05E3hhplECd7G7AlK9QbttdgXE5A/view?usp=drive_link) 2024
     "Digital Marketing Training"
 #### 3. [National Seminar and Agricultural Technical Guidance](https://drive.google.com/file/d/1PLbXKjaOO4JjBscUYuEZL0nFkZhuNUW_/view?usp=drive_link) 2024

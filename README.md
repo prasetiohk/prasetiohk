@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Automation Software Quality Assurance
 - 👯 I’m looking to collaborate as Automation Software Quality Assurance (Tester)
 - 🤔 I’m looking for suggestions for Project Ideas
+- 🔭 As a retail trader forex and cryptocurrency
 - 👯 I'm currently learning Holistic Health Enthusiast
 - 🔭 I'm a Hybrid Sport and Triathlon Enthusiast
 - 🌱 I'm a Naturalist Enthusiast

@@ -1,8 +1,7 @@
 # Hi there, I'm Prasetio👋
 ## About me:
-- 🔭 I'm currently looking for a job as a Software Quality Assurance (Tester).
+- 🔭 I'm currently job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance
-- 👯 I’m looking to collaborate as Automation Software Quality Assurance (Tester)
 - 🤔 I’m looking for suggestions for Project Ideas
 - 🔭 As a retail trader forex and cryptocurrency
 - 👯 I'm currently learning Holistic Health Enthusiast
@@ -15,20 +14,22 @@
 
 ## Education:
 #### 1. [Universitas Jember](https://ilkom.unej.ac.id/) | Bachelor of Computer Science Faculty
-Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS](https://repository.unej.ac.id/handle/123456789/106185)
+Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUINO FOR LETTUCE PLANTS]()
 
 ---
 
 ## Skills, Achievements & Other Experience
 #### 1. [Software Quality Assurance](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2024
-    "Training in Software Quality Assurance (SQA)"
-#### 2. [Digital Marketing](https://drive.google.com/file/d/1qlXL05E3hhplECd7G7AlK9QbttdgXE5A/view?usp=drive_link) 2024
+    "Training in Sanbercode (SQA)"
+#### 2. [Software QA Engineer](https://drive.google.com/file/d/1iXQW06nsDmYCdse7AZd-tq7La2DjNsm-/view?usp=drivesdk) 2024
+    "Training in JayJay (QA Engineer)"  
+#### 3. [Digital Marketing](https://drive.google.com/file/d/1qlXL05E3hhplECd7G7AlK9QbttdgXE5A/view?usp=drive_link) 2024
     "Digital Marketing Training"
-#### 3. [National Seminar and Agricultural Technical Guidance](https://drive.google.com/file/d/1PLbXKjaOO4JjBscUYuEZL0nFkZhuNUW_/view?usp=drive_link) 2024
+#### 4. [National Seminar and Agricultural Technical Guidance](https://drive.google.com/file/d/1PLbXKjaOO4JjBscUYuEZL0nFkZhuNUW_/view?usp=drive_link) 2024
     "Digitalization of Agricultural Tools and Machinery"
-#### 4. [Survival Skill Indonesia](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2020
+#### 5. [Survival Skill Indonesia](https://drive.google.com/drive/folders/1k38iKtcg8TFtsLwULySVDZiuNbOs1_YJ) 2020
     "Basic Knowledge of Survival Skills"
-#### 5. [Survival Skill Indonesia](https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link) 2017
+#### 6. [Survival Skill Indonesia](https://drive.google.com/file/d/1YUkD0DSV8Uf4-RprrQQoGOodBkUg9gXi/view?usp=drive_link) 2017
     "Gathering Survival Skills"  
     
 ---

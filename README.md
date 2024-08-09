@@ -1,4 +1,4 @@
-# Hi there, I'm Prasetio👋
+# Hi there, I'm Tio👋
 ## About me:
 - 🔭 I'm currently job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance

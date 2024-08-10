@@ -36,14 +36,14 @@ Thesis [CONTROL OF HYDROPONIC LIGHTING IN MICROCONTROLLER-BASED ROOM USING ARDUI
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
+[![website](./img/youtube-light.svg)](https://youtube.com/@eastjavastory?si=ZdJ7L_kd5C-TAzXq)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@eastjavastory?si=ZdJ7L_kd5C-TAzXq)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/prasetiohk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/prasetiohk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+[![website](./img/instagram-light.svg)](https://www.instagram.com/eastjavastory_?igsh=MXBqb212YmN2ejJ5eg==)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/eastjavastory_?igsh=MXBqb212YmN2ejJ5eg==)
 
 
 

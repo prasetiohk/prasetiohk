@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4408090c-a42f-4ae4-8d67-f59cb353b898)# Hi there, I'm Tio👋
+## Hi there, I'm Tio👋
 ## About me:
 - 🔭 I'm currently job as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance
@@ -8,7 +8,7 @@
 - 🔭 I'm a Hybrid Sport and Triathlon Enthusiast
 - 🌱 I'm a Naturalist Enthusiast
 - 💬 Ask me about anything
-- 📫 How to reach me: [telegram](t.me/@prstio) / [Instagram](t.me/@eastjavastory_)
+- 📫 How to reach me: [telegram](https://web.telegram.org/k/#@prstio) / [Instagram](https://www.instagram.com/eastjavastory_/)
 
 ---
 

@@ -1,14 +1,18 @@
 ## Hi there, I'm Tio👋
 ## About me:
-- 🔭 I'm currently job as a Software Quality Assurance (Tester).
+- 🔭 I’m currently as a retail trader forex and cryptocurrency
+- 🔭 I'm as a Software Quality Assurance (Tester).
 - 🌱 I’m currently learning Automation Software Quality Assurance
 - 🤔 I’m looking for suggestions for Project Ideas
-- 🔭 As a retail trader forex and cryptocurrency
-- 👯 I'm currently learning Holistic Health Enthusiast
+- 👯 I'm adherents of holistic health principles.
 - 🔭 I'm a Hybrid Sport and Triathlon Enthusiast
 - 🌱 I'm a Naturalist Enthusiast
 - 💬 Ask me about anything
 - 📫 How to reach me: [telegram](https://web.telegram.org/k/#@prstio) / [instagram](https://www.instagram.com/eastjavastory_/)
+
+---
+  
+I am an Information Technology professional with a formal academic background in Computer Science and Information Technology, complemented by various non-formal professional courses. I have hands-on experience in Software Quality Assurance (manual testing), with a strong understanding of testing processes, documentation, and quality standards. Beyond software engineering, I am actively involved in the financial sector as a forex trader, which has strengthened my analytical thinking, risk management, and decision-making skills. I also specialize in financial technology, particularly cryptocurrency markets and blockchain-based systems. Currently, I am conducting independent Research and Development on a personal Quantitative AI Cryptocurrency Trading System, focusing on data-driven and algorithmic decision-making. With a strong learning mindset, adaptability, and cross-disciplinary expertise, I am highly motivated to contribute value, innovation, and reliability as a committed member of a professional team.
 
 ---
 
